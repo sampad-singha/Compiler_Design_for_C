@@ -1,8 +1,5 @@
 # ninja log v5
-3	20190	6976761401233394	CMakeFiles/Compiler_Design.dir/main.cpp.obj	f5da91f7eecca985
-20190	23652	6976761435818631	Compiler_Design.exe	2586ab5b4c9861b1
-2	499	6976507790768876	CMakeFiles/Compiler_Design.dir/source.c.obj	e7d9af2eaced9292
-0	174	6976763470157557	build.ninja	25f360d7eb20c1ff
-0	2068	6976763470157557	build.ninja	25f360d7eb20c1ff
 3	2623	6976763825902153	CMakeFiles/Compiler_Design.dir/main.cpp.obj	f5da91f7eecca985
 2624	3528	6976763834919146	Compiler_Design.exe	2586ab5b4c9861b1
+2	499	6976507790768876	CMakeFiles/Compiler_Design.dir/source.c.obj	e7d9af2eaced9292
+0	2068	6976816249594709	build.ninja	25f360d7eb20c1ff
