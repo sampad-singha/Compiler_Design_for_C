@@ -1,0 +1,6 @@
+int main()
+{
+    int temp=2, b=10;
+    int a = temp*2 +b;
+    return 0;
+}
